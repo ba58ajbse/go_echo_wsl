@@ -1,0 +1,6 @@
+app/tmp
+
+docker/mysql/data
+docker/mysql/log
+
+.env
